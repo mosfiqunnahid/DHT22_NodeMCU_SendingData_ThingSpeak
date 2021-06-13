@@ -1,0 +1,1 @@
+# DHT22_NodeMCU_SendingData_ThingSpeak
